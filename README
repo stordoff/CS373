@@ -1,0 +1,22 @@
+This is a test environment for some of the algorithms discussed in the Udacity CS373 course. It is very much a work in progress.
+
+"""
+
+So far, we has histogram localisation implemented, and it seems to work OK.
+There is no planning, or recognition of obstactles
+
+Next:   Prove that localisation is working
+
+        Kalman localisation (if possible in discrete world)
+        Particle Filters
+        A* and Dynamic Programming (obstactle recognition)
+
+        Move away from colors and use wall range finding
+
+        Smoothing (if possible in discrete world)
+        PID Controller (ditto)
+
+        Add continuous world for robot motion, but use discrete world as planning
+            and localisation environment
+        Landmarks in continuous space
+"""
